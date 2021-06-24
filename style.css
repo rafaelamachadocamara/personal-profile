@@ -59,3 +59,8 @@ ul{
 .box li a:hover{
     color: #b9b9b9;
 }
+
+.box h3{
+    font-size: 13px;
+    font-weight: 100;
+}
